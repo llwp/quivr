@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.228 (2024-03-28)
+
+## What's Changed
+* fix(frontend): phone display issues by @Zewed in https://github.com/QuivrHQ/quivr/pull/2386
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.227...v0.0.228
+
 ## 0.0.227 (2024-03-28)
 
 ## What's Changed
